@@ -1,6 +1,6 @@
 # Webpack Template
 
-This is a template of webpack with typescript and babel
+This is a template of webpack with typescript and babel [Go to project](https://luisangel2895.github.io/webpack-template-ts-babel/)
 
 ## Start
 
